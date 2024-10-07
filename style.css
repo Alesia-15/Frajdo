@@ -126,7 +126,7 @@ header li {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  padding: 15px;
+  padding: 20px;
   border-top: 2px #11002d solid;
 }
 #footer p,
